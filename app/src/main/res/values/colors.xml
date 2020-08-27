@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#f0f0f0</color>
+    <color name="colorAccent">#fafafa</color>
+    <color name="black">#000</color>
+    <color name="header_color">@color/colorPrimaryDark</color>
+    <color name="sub_header_color">@color/gray_dark</color>
+    <color name="background_shimmer">#eeeeee</color>
+    <color name="shimmer_color">#FFFFFF</color>
+    <color name="primary_gradient_color">#00c0ff</color>
+    <color name="secondary_gradient_color">#0091ff</color>
+    <color name="light_cyan">#E7FDFC</color>
+    <color name="screen_background_holo_light">#fff3f3f3</color>
+
+    <!-- grayscale -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#bbc8da</color>
+    <color name="orange_dark">#FF5722</color>
+    <color name="yellow">#fff100</color>
+    <color name="gray">#939393</color>
+    <color name="gray_dark">#6D6A6A</color>
+    <color name="gray_dark2">#635555</color>
+
+    <color name="gray_darker">#272626</color>
+
+    <color name="themecolor">#FF0044FF</color>
+    <color name="themecolor2">#386CFA</color>
+
+    <color name="themecolorlight">#FF00C8FF</color>
+    <color name="themecolorlight2">#6f729b</color>
+    <color name="themecolorlight3">#5E6298</color>
+
+    <color name="themebgcolor">#ef6751</color>
+
+
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="brown">#795548</color>
+    <color name="light_green">#67ff01</color>
+    <color name="grey_percent_65">#A6A6A5</color>
+    <color name="Light_gray">#e5e5e5</color>
+    <color name="Light_blue">#2BD0FE</color>
+    <color name="Dark_blue">#0F85FE</color>
+    <color name="medium_blue">#2FA9FE</color>
+    <color name="medium_green">#1FA927</color>
+    <color name="medium_gray">#BFBEBE</color>
+    <color name="blue_gray">#A9BAD1</color>
+    <color name="colorPink">#FF1D8E</color>
+    <color name="green_text_color">#58ff00</color>
+    <color name="red_text_color">#ff0000</color>
+    <color name="blue_text_color">#0091ff</color>
+    <color name="green_scorecard_color">#d9faea</color>
+
+    <color name="Alice_Blue">#E3F1FF</color>
+    <color name="Back_color">#F4F4F4</color>
+    <!-- basic colors -->
+    <color name="green">#1fa927</color>
+    <color name="green_dark">#088A29</color>
+    <color name="blue">#0091ff</color>
+    <color name="blue_dark">#2E2EFE</color>
+    <color name="orange">#FF9D2F</color>
+    <color name="red">#ff0000</color>
+    <color name="maroon">#b20203</color>
+    <color name="transparent_grey_900_eighty">@color/colorPrimary</color>
+    <color name="dull_background">#80000000</color>
+    <color name="com_facebook_button_login_corner_radius">@color/colorPrimary</color>
+    <color name="com_facebook_button_background_color_focused">@color/colorPrimary</color>
+    <color name="com_facebook_button_background_color_focused_disabled">@color/colorPrimary</color>
+    <color name="com_facebook_button_border_color_focused">@color/colorPrimary</color>
+    <color name="colorTransparentBlack">#99000000</color>
+    9c9c9c
+    <color name="themetxtcolorblack">#262626</color>
+    <color name="themetxtlight">#9c9c9c</color>
+
+</resources>
